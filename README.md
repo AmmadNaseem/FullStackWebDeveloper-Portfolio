@@ -180,6 +180,22 @@ Repository Link [FootLocker](https://github.com/AmmadNaseem/Ecom-FootLocker-Lara
 ### Backend Technologies:
 - Laravel 9 & PhpMyAdmin. 
 
+## 12. Jamia-Taleem-Ud-Din - Laravel Website
+> Jamia-Taleem-Ud-Din is a Laravel-based website that aims to facilitate students' education and provide them with a better future. The website allows users to submit an admission request for their children or for themselves, as well as donate money to support the education of underprivileged students.
+The admission section of the website provides users with an easy-to-use form where they can submit their personal information, education background, and the program they wish to enroll in. Once the form is submitted, the admissions team reviews the application and contacts the user for further processing.
+In addition to the admission process, the website also allows users to donate money to support the education of deserving students. The donation process is simple and secure, with users being able to choose the amount they want to donate and the payment method they prefer.
+The website provides users with various payment options, including credit/debit cards, PayPal, and bank transfers, to ensure a convenient and secure payment process.
+Moreover, the website also features a section where users can learn more about the educational programs offered by Jamia-Taleem-Ud-Din, as well as read testimonials from students and parents who have benefited from the institution's education system.
+Overall, Jamia-Taleem-Ud-Din is a well-designed and user-friendly website that provides an opportunity for students to receive quality education and for donors to contribute towards a noble cause.
+
+Repository Link [Jamia-Taleem-Ud-Din](https://github.com/AmmadNaseem/Jamia-Taleem-ud-din)  to check code.
+
+### Frontend Technologies:
+- HTML, CSS, Boostrap and Javascript.
+
+### Backend Technologies:
+- Laravel 9 & PhpMyAdmin. 
+
 
 ## Best Regards,
 >**Aamad Naseem!**
