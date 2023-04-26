@@ -26,7 +26,7 @@ Repository Link [Admin Template](https://github.com/AmmadNaseem/Angular-AdminTem
 ## 3. BookStore With Angular & Firebase 
 >BookStore with Angular & Firebase is a web application that allows users to browse and purchase books online. The application is built using Angular, a popular front-end JavaScript framework, and Firebase, a real-time database and backend as a service platform. With BookStore, users can browse through a selection of books, view book details such as the author, description, and price, and make purchases online using add cart. The application also allows users to create accounts, save their payment information, and view their purchase history.
 
-Repository Link [BookStore](https://github.com/AmmadNaseem/AngularBookStore)  to check code.
+Live URL Link [BookStore](https://angularwithfirebase-585eb.firebaseapp.com)  to check code.
 
 
 
