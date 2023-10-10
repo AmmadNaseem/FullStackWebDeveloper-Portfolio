@@ -2,6 +2,7 @@
 ## Aamad Naseem
 > BS Computer Science  
 > ## CGPA:3.98
+> ## LinkedIn: https://www.linkedin.com/in/aamad-naseem/
 
 As a Full Stack Web Developer, I am a professional who has a strong expertise in developing both the front-end and back-end parts of web applications. I am capable of working with various technologies and programming languages such as HTML, CSS, Bootstrap, JavaScript, JQuery, Angular, ASP. NET Core, PHP, Laravel, Livewire, MySQL, SQL Server, Node.js, Vue, MongoDB, Flask, Postgress, MEAN Stack and MEVN Stack.
 My responsibilities as a Full Stack Web Developer include developing and designing user-friendly web interfaces, managing databases, integrating with third-party services and APIs, building and maintaining web servers, and ensuring that the web application is optimized for speed and performance.
